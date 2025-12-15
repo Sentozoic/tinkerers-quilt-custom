@@ -3609,11 +3609,6 @@ file = "resources/resourcepacks/twemojis.zip"
 hash = "77fd21d736e443a5418117a34e68393ee93020be42b0861e503fcc2e25382515"
 
 [[files]]
-file = "resources/resourcepacks/varied-connected-bookshelves.pw.toml"
-hash = "7ad422d13158ebf54243285494d33853e80bad900360b195b1febf8662595c10"
-metafile = true
-
-[[files]]
 file = "resources/resourcepacks/xalis-enchanted-books.pw.toml"
 hash = "222c47bfe7823e7d4ba99c07ae52c4fa6c00f50a8c5521b594d5f5d1b092a1b7"
 metafile = true
