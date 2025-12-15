@@ -33,7 +33,7 @@
     ]
   },
   "boneSpider": {
-    "spawn": true,
+    "spawn": false,
     "weight": 10,
     "groupMin": 2,
     "groupMax": 4,
@@ -222,7 +222,7 @@
     ]
   },
   "lobberZombie": {
-    "spawn": true,
+    "spawn": false,
     "weight": 15,
     "groupMin": 2,
     "groupMax": 4,
@@ -465,7 +465,7 @@
     ]
   },
   "vilerWitch": {
-    "spawn": true,
+    "spawn": false,
     "weight": 1,
     "groupMin": 1,
     "groupMax": 1,

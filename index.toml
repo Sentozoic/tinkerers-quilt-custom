@@ -22,7 +22,7 @@ hash = "6d01925c16f5913cb67d2d88a27886d56121c83ab08ac1e09d7e5114a85b59f0"
 
 [[files]]
 file = "config/apathy/general.cfg"
-hash = "532abb8ffb6f391bf71eeae397d5b31d199c3517b84b30dcbae9257642c6f907"
+hash = "3d4dba742f0bc59c924a8e76bfd5a00cfbb0d6bd19fd2060cef89a43b2c6f5df"
 
 [[files]]
 file = "config/apathy/mobs.cfg"
@@ -58,7 +58,7 @@ hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
 file = "config/boring_default_game_rules/config.json"
-hash = "f29d2dae6d097fc8bbc276e1d19e3e05491f18350bd541b1141d92d3a97ce095"
+hash = "d470b8c9c401dfd6edb8c849c849200409cdafd0262b9aa3f86a58e894517ea4"
 
 [[files]]
 file = "config/carpet/default_carpet-fixes.conf"
@@ -90,7 +90,7 @@ hash = "09d8c493b302cc5b88057351526c6ce0b213b55664327367d01bf73df9046da8"
 
 [[files]]
 file = "config/earthtojavamobs.json"
-hash = "9bda7e5e76cbac80401134de9db96f64c4c6ea369ac18c23814384ba2c15e448"
+hash = "37b0b28a0ffaeb1d0d4b73e4191e8493d0ed4e244cd2fba5d022540a5765faca"
 
 [[files]]
 file = "config/easierenchanting.properties"
@@ -118,7 +118,7 @@ hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "6708d0fdeb6b02dfb1b5a4d6853122b600baccf6f56176abf1fba3e515afab91"
+hash = "063310847edb89b45a13fc11d1761606741c74674278d370c19ef1ed70db1a14"
 
 [[files]]
 file = "config/fabrication/yeet_recipes.ini"

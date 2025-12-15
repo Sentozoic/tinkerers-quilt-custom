@@ -1,7 +1,7 @@
 {
 	"default_game_rules": {
 		"doInsomnia": false,
-		"players_sleeping_percentage‌": 51
+		"doWardenSpawning": false
 	},
 	"generate_json_schema": true
 }
